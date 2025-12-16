@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following is not a Java feature?",
+    "options": ["Object-Oriented", "Platform Independent", "Use of pointers", "Secure"],
+    "answer": 3
+  },
+  {
+    "question": "Which method is the entry point of a Java program?",
+    "options": ["start()", "main()", "run()", "init()"],
+    "answer": 2
+  },
+  {
+    "question": "Which keyword is used to inherit a class in Java?",
+    "options": ["this", "super", "extends", "implements"],
+    "answer": 3
+  },
+  {
+    "question": "Which of these is not a primitive data type in Java?",
+    "options": ["int", "float", "String", "char"],
+    "answer": 3
+  },
+  {
+    "question": "What is the size of int data type in Java?",
+    "options": ["8 bits", "16 bits", "32 bits", "64 bits"],
+    "answer": 3
+  },
+  {
+    "question": "Which concept allows the same method name with different parameters?",
+    "options": ["Inheritance", "Encapsulation", "Polymorphism", "Abstraction"],
+    "answer": 3
+  },
+  {
+    "question": "Which exception is thrown when dividing by zero?",
+    "options": ["NullPointerException", "ArithmeticException", "IOException", "NumberFormatException"],
+    "answer": 2
+  },
+  {
+    "question": "Which collection does not allow duplicate elements?",
+    "options": ["List", "ArrayList", "Set", "Map"],
+    "answer": 3
+  },
+  {
+    "question": "Which keyword is used to create an object in Java?",
+    "options": ["class", "new", "object", "create"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is used for memory management in Java?",
+    "options": ["Compiler", "Interpreter", "Garbage Collector", "JVM"],
+    "answer": 3
+  }
+]
